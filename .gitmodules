@@ -1,0 +1,6 @@
+[submodule "third-party/hump"]
+	path = third-party/hump
+	url = https://github.com/smatcher/hump.git
+[submodule "third-party/LoveFrames"]
+	path = third-party/LoveFrames
+	url = https://github.com/smatcher/LoveFrames.git
